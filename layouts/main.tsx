@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../styles/MainLayout.module.css";
+import styles from "../styles/mainLayout.module.css";
 
 type MainLayout = {
   children: React.ReactNode;
