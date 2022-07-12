@@ -32,7 +32,7 @@
 
 ## About The Project
 
-![Translation App](https://github.com/herisusantoarismann/next-quiz/blob/master/Screenshot.png)
+![Translation App](https://github.com/herisusantoarismann/next-translation/blob/master/Screenshot.png)
 
 Here is a screenshot of the application. Contains quizzes about various special or random things.
 
